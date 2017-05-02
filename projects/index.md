@@ -3,6 +3,7 @@ layout: page
 title: Current Projects
 excerpt: "Current Projects that I am working in."
 modified: 2017-05-02T11:11:11-04:00
+search_omit: false
 image:
   feature: so-simple-sample-image-5.jpg
   credit: WeGraphics

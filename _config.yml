@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Oliver Barreto's Lost in IT & Business Translation
+title:            Oliver Barreto ||| Lost in IT & Business Translation
 description:      My journey Learning and Bringing Ideas to life
-locale: en_US
+locale:           en_US
 logo:             site-logo.png
 #Change url to your domain. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000

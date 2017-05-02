@@ -10,11 +10,8 @@ image:
 ---
 
 If you want to contact me:
-1. EMAIL: 
-oliver.barreto@gmail.com
+1. EMAIL: [oliver.barreto@gmail.com](mailto:oliver.barreto@gmail.com)
 
-2. MOBILE:
-+34 610 700 505 
+2. MOBILE: +34 610 700 505 
 
-3. LinkedIn 
-This is just a resume. To access my full profile information contact me or visit [my full profile in LinkedIn](http://www.linkedin.com/in/oliverbarreto)
+3. LinkedIn: This is just a resume. To access my full profile information contact me or visit [my full profile in LinkedIn](http://www.linkedin.com/in/oliverbarreto)
