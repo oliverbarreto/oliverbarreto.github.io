@@ -2,7 +2,7 @@
 layout: post
 title: "Going Static makes me go more Dynamic"
 description: "Why I switched to Jekyll and Give Credit to this Outstanding Jekyll Theme by Michael Rose that speeds up its usage."
-category: articles
+category: blog
 tags: [Jekyll, Sharing Is Good]
 comments: true  
 share: true
