@@ -21,7 +21,7 @@ Jekyll also has helped me familiarize myself with the basics of HTML5 and CSS3, 
 # So Simple Theme, by [Michael Rose](http://mademistakes.com)
 During my search of a new tool I found [Michael Rose](http://twitter.com/mmistakes) site by coincidence, searching for technices to draw on [Paper by 53](http://www.fiftythree.com/paper), which by the way, it's the best tool for the iPad if you like to draw. He explained how he swithced to "static mode" with Jekyll, and he also had a Theme for Jekyll... what else could you ask for ?
 
-So take a look at his work. There are 3 responsive Jekyll themes made by [Michael Rose](http://twitter.com/mmistakes). My favorite [So-Simple Jekyll](http://mademistakes.com) theme is a great tool for starting up a new blog using [Jekyll machinery](http://jekyllrb.com).
+So take a look at his work. There are 3 responsive Jekyll themes made by [Michael Rose](http://twitter.com/mmistakes). My favorite [So-Simple Jekyll](https://mmistakes.github.io/so-simple-theme/) theme is a great tool for starting up a new blog using [Jekyll machinery](http://jekyllrb.com).
 
 <figure>
 	<a href="{{ site.url }}/images/so-simple-theme-feature.jpg"><img src="{{ site.url }}/images/so-simple-theme-feature.jpg"></a>
