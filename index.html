@@ -1,0 +1,25 @@
+---
+layout: page
+title: Marketing, Mobile and Technology !!!
+description: "Oliver Barreto Personal Blog... about Marketing, Mobile and Technologhy !!!"
+tags: [Jekyll, Blog, Marketing, Mobile, Technology, Ideas, Innovation]
+image:
+  feature: Colors.jpg
+---
+<div class="wrap">
+	<!-- <h1 class="site-title animated fadeIn center"><a href="http://oliverbarreto.github.io">Build One IDeas</a></h1> -->
+	<h1 class="site-description animated fadeIn center">Ideas come. Ideas go... but I like to work hard to bring them to life with my own One IDeas.</h1>
+</div>
+
+<div class="entry-wrapper">
+	<header class="entry-header animated fadeIn center">
+	    <h1 class="entry-title" itemprop="name">My Latest Posts</h1>
+	</header>
+	<ul class="post-list">
+		{% for post in site.posts limit:10 %} 
+			<li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article>
+			</li>
+		{% endfor %}
+	</ul>
+</div><!-- /.entry-wrapper -->
+
