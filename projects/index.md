@@ -31,6 +31,8 @@ Ideas come. Ideas go... but I like to work hard to make them real. I am now work
 
 ## Machine Learning in Python & OpenCV
 1. Object Detection in video source for safe driving
+2. Pokemon Identification (Who is that Pokemon from images) 
+3. Pokemnon simple Game AI 
 
 ---
 
