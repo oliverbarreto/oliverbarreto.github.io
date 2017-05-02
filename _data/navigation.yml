@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Keep Learning
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+# - title: Theme Setup
+#   url: /theme-setup/
+- title: Projects
+  url: /projects/
+
+- title: Contact
+  url: /contact/
+
+- title: Search
+  url: /search/
