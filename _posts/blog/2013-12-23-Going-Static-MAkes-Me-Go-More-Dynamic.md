@@ -9,7 +9,7 @@ share: true
 ---
 
 # Web Design State of the Art
-Modern web design and development change fast. Faster than light. Latests trends include work being done revolving around responsive design amd you can read everywhere about it. However, I got tired of working with big CMS to hold webpages. They are just to big for my needs, they hold more features that I would ever need (just like MS Excel) and they come with one huge problem: Maintenance. Installing updates, upgrades and security patches or plugins can become a pain in the neck. Let's not even talk about custom theme programming knowledge you need in order to create or cusomize your site design.
+Modern web design and development change fast. Fasterer than fast. Quicker than quick. Faster than light. Latests trends include work being done revolving around responsive design amd you can read everywhere about it. However, I got tired of working with big CMS to hold webpages. They are just to big for my needs, they hold more features that I would ever need (just like MS Excel) and they come with one huge problem: Maintenance. Installing updates, upgrades and security patches or plugins can become a pain in the neck. Let's not even talk about custom theme programming knowledge you need in order to create or cusomize your site design.
 
 So, if you only need to blog a small amonunt of posts and create a simple site and you have some HTML/CSS background and you are not afraid of writing something like <code> <p class="..."> </code> yourself, but more specially, if you want to take control over things, then you definetely need something different. Something "easy". So you should check out Jekyll static web and blog creation. 
 
