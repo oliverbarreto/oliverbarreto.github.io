@@ -14,18 +14,38 @@ When I followed the instructions in the theme, i always got an error by Github a
 
 After a few hours i went a very different route: follow github strandard guide... and voila!!!
 
-1. First remove every content of your repo, and then go to your project's settings and enable any of available themes by default by github.  
-2. Then, follow this guide to add any of the remote themes to your repo: https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll. The idea is that we set up the remote theme on our `_config.yml` with `remote_theme: "mmistakes/so-simple-theme@3.2.0"`.
+1. First remove every content of your repo, and then go to your project's settings and enable any of available themes by default by github. Check that you can see your blog published with Github pages using a standar theme.
 
-Then we [create a pull request](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) of that repo in a new temporary branch. The request will be automatically approved, and all there is to it, is merge the request into our master branch. After this, the new branch can then be safely removed.
+2. Then, follow this guide to add any of the remote themes to your repo: https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll. The idea is that we set up the remote theme on our `_config.yml` with `remote_theme: "mmistakes/so-simple-theme@3.2.0"`. If you check now your blog, it should now have the new theme applied.
+
+Now, for a fresh start, download with 'git clone https://github.com/mmistakes/so-simple-theme.git' the theme locally and configure to your own needs.
+
+If you have a backup, copy the files and folders needed, commit and push to your blog. In my case, I needed:
+- `_config.yml` edit your current config file to extend all the context of the one included in the template. Make sure you leave no data blank, and the remote-theme is correctly specified. 
+- `_navigation.yml_` edit the navigation items and create your sections pages accordingly.
+- _data (folder with navigation menu structure)
+- _posts (folder with posts entries)
+- CNAME (with my domain in order to force dns entries in github redirected to https://oliverbarreto.github.io)
+
+|____images
+|____posts
+|_____data
+| |____text.yml
+| |____navigation.yml
+| |____authors.yml
+|____config.yml
+|____README.md
+|____favicon.png
+|____favicon.ico
+|____CNAME
+|____404.md
+|____index.md
+|____posts.md
+|____search.md
+
+> The old way: Then we [create a pull request](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) of that repo in a new temporary branch. The request will be automatically approved, and all there is to it, is merge the request into our master branch. After this, the new branch can then be safely removed.
 
 3. It should now be good to go !!! Give it a try by going to your browser and reloading your githuib pages site. Plain and simple index.md rendered with the proper template.
 
-4. Copy from the template folder the following items:
-- `Blog` folder
-- `_posts` folder
-- `_config.yml` edit your current config file to extend all the context of the one included in the template. Make sure you leave no data blank, and the remote-theme is correctly specified. 
-- `_navigation.yml_` edit the navigation items and create your sections pages accordingly.
-- In my case, I had to comment `links:` section inside `author:` section in `_config.yml`
 
 From there, you only need to create content with the common Jekyll sites publishing style: create markdown files and commit then into Github to apply the changes.
