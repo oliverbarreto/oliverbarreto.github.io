@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: home
+title: Product Marketing, Business and Technology !!!
+excerpt: "Oliver Barreto's Personal Blog... lost in translation in Marketing, Business and Technologhy !!!"
+paginate: false
+show_excerpts: true
+entries_layout: list
+image: 
+  path: /images/colors.jpg
+  thumbnail: /images/colors.jpg
+  caption: "Color your life"
+---
 
-You can use the [editor on GitHub](https://github.com/oliverbarreto/oliverbarreto.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Why This Site ???
+**This is about writing without trying to write pro content.**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oliverbarreto/oliverbarreto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am a father, a basketball coach, and another (not so common) guy that after getting a college engineering degree in IT was converted to the dark side of Management, Business Development and Product Marketing a long time ago. I spend time managing projects in the IT field, translating IT into product/market needs and viceversa. I also like to keep in touch with raw technology so i build things from time to time.
