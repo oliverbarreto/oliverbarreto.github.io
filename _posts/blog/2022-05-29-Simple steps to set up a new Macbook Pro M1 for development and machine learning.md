@@ -1,9 +1,6 @@
 ---
 title: "Simple steps to set up your new Macbook Pro M1 for developement and machine learning"
 description: "Simple steps to set up your new Macbook Pro M1 for developement and machine learning"
-image: 
-  path: /images/blogposts/20220529-appleM!silicon.png
-  caption: "Simple steps to set up your new Macbook Pro M1 for developement and machine learning"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
