@@ -39,7 +39,7 @@ The core of the course consists of 7 modules (actually the original 5 and 2 more
 The course is complemented with various sections that cover important aspects like: GraphQl, CI/CD, Containers.. and yes, the much needed module (in my opinion) that covers [TypeScript](https://www.typescriptlang.org) which is the Microsfot solution to Javascript provide syntax for types, and control your code in the editor, not in runtime.
 
 - [GraphQL](https://fullstackopen.com/en/part8)
-- [GraphQL](https://fullstackopen.com/en/part9)
+- [TypeScript](https://fullstackopen.com/en/part9)
 - [React Native](https://fullstackopen.com/en/part10)
 - [CI/CD](https://fullstackopen.com/en/part11)
 - [Containers](https://fullstackopen.com/en/part12)
@@ -47,11 +47,16 @@ The course is complemented with various sections that cover important aspects li
 
 ## My path
 
-I just finalized the 2022 version of the course, which I enjoyed the practical approach of incrementally building the technical parts needed in order to construct your app features. Exercises build on top of previous ones. So this is a W !!!
+I just finalized the 2022 version of the course, Parts 1 to 7. Now entering the rest of the modules. 
 
-So definetely yes, I recommend taking the course !!! to those without many programming experience and also to those with a solid background, but no experience with React/NodeJS.
+In my experience, I really enjoyed the practical approach of incrementally building the technical parts needed in order to construct your app features, with exercises building on top of previous ones. So this is a total W !!! I have taken a few MOCs online and overall, this course garantees great quality to learn the concepts of modern web development with Javascript, ReactJS and NodeJS.
 
-I have taken a few MOCs online and overall, this course garantees great quality to learn the concepts of modern web development with Javascript, ReactJS and NodeJS.
+So definetely yes, I recommend taking this course !!! ... to those without many programming experience and also, to those with a solid background, but have no experience with React/NodeJS but want to give it a try.
+
+## Special mention
+
+I would love to give special mention to [MiduDev](https://midu.dev), a developer from Spain that has the courage and magnificent teaching skills to create, and share for free GREAT content in spanish. You can have access to the [Bootcamp FullStack Gratuito | Javascript, React.js, GraphQL, ](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) covering the topics of the Fullstack Open Course. This was for me a great companion to learn and get even more from the course.
 
 > Disclaimer: Don't expect to have a link to browse my exercise solutions here, I pretend to respect the code of conduct.
+
 ![image-center]({{ '/images/blogposts/FullStackOpen Certificate 2022 - Parts 1-7.png' | absolute_url }}){: .align-center} FullStackOpen Certificate 2022 - Parts 1-7.png.
