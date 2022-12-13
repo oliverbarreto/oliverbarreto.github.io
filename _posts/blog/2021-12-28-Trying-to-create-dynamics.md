@@ -2,7 +2,7 @@
 title: "Trying to create dynamics of a static site"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Blog
 tags:
   - Jekyll
   - Web

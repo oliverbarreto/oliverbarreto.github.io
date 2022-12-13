@@ -5,8 +5,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Productivity
-  - Productivity Workflow
+  - Analysis
+  - Management
 comments: true
 share: true
 ---

@@ -2,7 +2,7 @@
 title: "Why you should buy a Raspberry Pi"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Blog
 tags:
   - Docker
   - Technology

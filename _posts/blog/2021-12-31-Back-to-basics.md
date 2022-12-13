@@ -1,9 +1,10 @@
 ---
 title: "Some lessons to learn from"
 categories:
-  - Post Formats
+  - Blog
 tags:
   - Personal Objectives
+  - Self Improvement
 last_modified_at: 2021-12-31
 ---
 
