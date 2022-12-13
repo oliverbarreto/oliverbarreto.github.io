@@ -55,8 +55,8 @@ So definetely yes, I recommend taking this course !!! ... to those without many 
 
 ## Special mention
 
-I would love to give special mention to [MiduDev](https://midu.dev), a developer from Spain that has the courage and magnificent teaching skills to create, and share for free GREAT content in spanish. You can have access to the [Bootcamp FullStack Gratuito | Javascript, React.js, GraphQL, ](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) covering the topics of the Fullstack Open Course. This was for me a great companion to learn and get even more from the course.
+I would love to give special mention to [MiduDev](https://midu.dev), a developer from Spain that has the courage and magnificent teaching skills to create, and share for free GREAT content in spanish. You can have access to the [Bootcamp FullStack Gratuito: Javascript, React.js, GraphQL...](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) covering the topics of the Fullstack Open Course. This was for me a great companion to learn and get even more from the course.
 
 > Disclaimer: Don't expect to have a link to browse my exercise solutions here, I pretend to respect the code of conduct.
 
-![image-center]({{ '/images/blogposts/FullStackOpen Certificate 2022 - Parts 1-7.png' | absolute_url }}){: .align-center} FullStackOpen Certificate 2022 - Parts 1-7.png.
+![image-center]({{ '/images/blogposts/FullStackOpen Certificate 2022 - Parts 1-7.png' | absolute_url }}){: .align-center}
