@@ -1,6 +1,6 @@
 ---
 title: "A multiverse for text editors' cursors"
-description: "Get use to work with multiple cursors, it's way way faster."
+description: "Get used to work with multiple cursors, it's way way faster."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
