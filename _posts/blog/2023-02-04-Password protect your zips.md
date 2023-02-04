@@ -14,7 +14,8 @@ tags:
 comments: true
 share: true
 ---
-![image-right]({{ '/images/blogposts/20230204-image01.png' | absolute_url }}){: .align-right} No recuerdes todo ... sólo todo lo que necesites recordar !!
+![image-center]({{ '/images/blogposts/20230204-image01.png' | absolute_url }}){: .align-center} 
+No lo recuerdes todo ... sólo todo lo que necesites recordar !!!
 
 Almacenar cosas está bien... pero no las almacenes en texto plano... ponle puertas al campo y usa una contraseña para almacenar zips
 
