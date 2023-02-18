@@ -31,25 +31,29 @@ Por eso, me he auto-regalado el privilegio de poder tomarme la píldora roja. Y 
 El plan es el siguiente:
 
 **Día 1**
--Python y BeautifulSoup para el poder descargar en local la BD fácilmente.
+
+- Python y BeautifulSoup para el poder descargar en local la BD fácilmente.
 
 **Día 2**
--Python y Flask para la API.
--Docker para el deploy en explotación en un home lab con comunicaciones https.
+
+- Python y Flask para la API.
+- Docker para el deploy en explotación en un home lab con comunicaciones https.
 
 **Día 3**
--ReactJS para crear una app.
+
+- ReactJS para crear una app.
 
 **Día 4 - Bonus**
--Crear una automatización en mi Home Assistant que me permita visualizar en mi panel una palabra random cada día, y escucharla por mis altavoces.
--Crear un Bot de Telegram que me permita consultar el significado de una palabra.
+
+- Crear una automatización en mi Home Assistant que me permita visualizar en mi panel una palabra random cada día, y escucharla por mis altavoces.
+- Crear un Bot de Telegram que me permita consultar el significado de una palabra.
 
 Por ahora ya está finalizada la fase 1: días 1 y 2. Puedes acceder a la API en [https://randomdic.oliverbarreto.com](https://randomdic.oliverbarreto.com). En otro futuro post escribiré sobre los resultados del día 3 y 4 y sobre los pros & cons de usar ChatGPT como asistente, o mejor dicho el compañero informático "sabiondo" que todo lo sabe, aunque a veces te conteste con código que debes estar bien atento y revisar.
 
 # Descripción de la Random API del Diccionario Canario de la Lengua
 En este proyecto se ofrece una API pública para que se pueda consultar el Diccionario de la Lengua Canaria y algunos datos sobre ella.
 
-- https://randomdic.oliverbarreto.com/random
+- [https://randomdic.oliverbarreto.com/random](https://randomdic.oliverbarreto.com/random)
 - 
 La BD del diccionario de la Lengua Canaria ha sido descargada desde [www.academiacanarialengua.org](https://www.academiacanarialengua.org/diccionario/a/?page=1), y cuenta con palabras y significados.
 
@@ -58,15 +62,15 @@ La BD es muy simple:
 - significados: tabla que guarda un id, palabra_id que referencia a la palabra a la que pertenece, texto con un texto compuesto por las múltiples acepciones de cada palabra y created_date
 
 Se ofrecen las siguientes rutas:
-- https://randomdic.oliverbarreto.com/: says "hello !!!"
-- https://randomdic.oliverbarreto.com/info: 
+- [https://randomdic.oliverbarreto.com/](https://randomdic.oliverbarreto.com/): says "hello !!!"
+- [https://randomdic.oliverbarreto.com/info](https://randomdic.oliverbarreto.com/info): 
 ```javascript
 {
 	"num_palabras": 4706,
 	"num_significados": 7363
 }
 ```
-- https://randomdic.oliverbarreto.com/stats
+- [https://randomdic.oliverbarreto.com/stats](https://randomdic.oliverbarreto.com/stats)
 ```javascript
 {
 	"L": 1,
@@ -98,7 +102,7 @@ Se ofrecen las siguientes rutas:
 	"ñ": 14,
 	"ó": 2
 }
-- https://randomdic.oliverbarreto.com/fullstats
+- [https://randomdic.oliverbarreto.com/fullstats](https://randomdic.oliverbarreto.com/fullstats):
 ```javascript
 {
 	"letras_sin_palabras": [
@@ -139,7 +143,7 @@ Se ofrecen las siguientes rutas:
 }
 ```
 
-- https://randomdic.oliverbarreto.com/random
+- [https://randomdic.oliverbarreto.com/random](https://randomdic.oliverbarreto.com/random):
 ```javascript
 {
 	"acepciones": "\n1. m Millo sin tostar molido algo grueso. Se emplea generalmente para alimento de animales. Como no había hierba, tenían que alimentarlos a base de rolón.",
@@ -148,7 +152,7 @@ Se ofrecen las siguientes rutas:
 }
 ```
 
-- https://randomdic.oliverbarreto.com/palabras
+- [https://randomdic.oliverbarreto.com/palabras](https://randomdic.oliverbarreto.com/palabras):
 ```javascript
 {
 	"L": [
@@ -179,7 +183,7 @@ Se ofrecen las siguientes rutas:
 }
 ```
 
-- https://randomdic.oliverbarreto.com/significados
+- [https://randomdic.oliverbarreto.com/significados](https://randomdic.oliverbarreto.com/significados):
 ```javascript
 {
 	"abacorante": {
@@ -197,7 +201,7 @@ Se ofrecen las siguientes rutas:
 }
 ```
 
-- https://randomdic.oliverbarreto.com/sigs
+- [https://randomdic.oliverbarreto.com/sigs](https://randomdic.oliverbarreto.com/sigs):
 ```javascript
 {
 	"L": [
