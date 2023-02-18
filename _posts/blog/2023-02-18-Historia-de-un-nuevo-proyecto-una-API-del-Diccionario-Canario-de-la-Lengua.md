@@ -29,6 +29,7 @@ Además, todo esto tiene un truco. Como no soy desarrollador profesional siempre
 Por eso, me he auto-regalado el privilegio de poder tomarme la píldora roja. Y no, no me refiero a usar [Google](https://google.com), ni tampoco a usar [StackOverflow](https://stackoverflow.com). Voy a trabajar con mis "super-poderes 😎💪🏻". Cuando quiera saber como "escribir cierto código" lo que voy a hacer es usar mi nuevo más-mejor-super-amigo [ChatGPT](https://chat.openai.com/chat) para poder "refrescar" el cómo escribir el código de lo que quiero hacer.
 
 El plan es el siguiente:
+
 **Día 1**
 -Python y BeautifulSoup para el poder descargar en local la BD fácilmente.
 
@@ -43,7 +44,7 @@ El plan es el siguiente:
 -Crear una automatización en mi Home Assistant que me permita visualizar en mi panel una palabra random cada día, y escucharla por mis altavoces.
 -Crear un Bot de Telegram que me permita consultar el significado de una palabra.
 
-Por ahora vamos en fase 1: días 1 y 2. Puedes acceder a la API en [https://randomdic.oliverbarreto.com](https://randomdic.oliverbarreto.com). En otro futuro post escribiré sobre los resultados del día 3 y 4.
+Por ahora ya está finalizada la fase 1: días 1 y 2. Puedes acceder a la API en [https://randomdic.oliverbarreto.com](https://randomdic.oliverbarreto.com). En otro futuro post escribiré sobre los resultados del día 3 y 4 y sobre los pros & cons de usar ChatGPT como asistente, o mejor dicho el compañero informático "sabiondo" que todo lo sabe, aunque a veces te conteste con código que debes estar bien atento y revisar.
 
 # Descripción de la Random API del Diccionario Canario de la Lengua
 En este proyecto se ofrece una API pública para que se pueda consultar el Diccionario de la Lengua Canaria y algunos datos sobre ella.
