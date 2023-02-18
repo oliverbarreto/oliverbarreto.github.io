@@ -24,28 +24,26 @@ Recuerdas lo de "Canario conoce tu Tierra" ??? pues ya va siendo hora de que tam
 
 También me sirve para documentar el cómo llevar una idea a la realidad en menos de 3 días utilizando varias tecnologías.
 
-Además, todo esto tiene un truco. Como no soy desarrollador profesional siempre digo que "nunca trabajaría para una empresa que me contrate como desarrollador" 😂 con el sentido de decir que sé programar, pero no soy experto, sé los conceptos, pero no tengo práctica del día a día, la el músculo de memoria para darle a la tecla sin parar, y sin tener errores. Sé lo que quiero hacer pero el cómo, tras el paso del tiempo, hay que recordarlo, y eso que siento Python como muy natural a la hora de expresar lo que quiero hacer, pero las librerías hay que trabajarlas continuamente para tener soltura.
+Además, todo esto tiene un truco. Como no soy desarrollador profesional siempre digo que "nunca trabajaría para una empresa que me contrate como desarrollador" 😂 con el sentido de decir que sé programar, pero no soy experto, sé los conceptos, pero no tengo práctica del día a día, no tengo bien entrenado con la práctica y repetición diaria el músculo de memoria para darle a la tecla sin parar, y desde luego, sin tener errores. 
 
-Por eso, me he auto-regalado el privilegio de poder tomarme la píldora roja. Y no, no me refiero a usar [Google](https://google.com), ni tampoco a usar [StackOverflow](https://stackoverflow.com). Voy a trabajar con mis "super-poderes 😎💪🏻". Cuando quiera saber como "escribir cierto código" lo que voy a hacer es usar mi nuevo más-mejor-super-amigo [ChatGPT](https://chat.openai.com/chat) para poder "refrescar" el cómo escribir el código de lo que quiero hacer.
+Como Product Manager, sé lo que quiero hacer y muchas veces hasta el cómo, pero el detalle de cómo no lo domino. En mi caso, digamos que es como hablar inglés, si no lo practicas... lo olvidas tras el paso del tiempo, hay que recordarlo. Eso mismo es lo que me pasa con Python, para mi es un lenguaje como muy natural a la hora de expresar lo que quiero hacer, pero las librerías y buenas prácticas hay que trabajarlas continuamente para tener soltura.
+
+Me he propuesto validar una idea en poco tiempo, y por eso, me he auto-regalado el privilegio de poder tomarme la píldora roja. Y no, no me refiero a usar [Google](https://google.com), ni tampoco a usar [StackOverflow](https://stackoverflow.com). Voy a trabajar con los "super-poderes 😎💪🏻" que te proporciona la AI de ChatGPT para poder idear, diseñar, construir, e incluso testear. Cuando quiera saber como "escribir cierto código" lo que voy a hacer es usar mi nuevo más-mejor-super-amigo [ChatGPT](https://chat.openai.com/chat) para poder "refrescar" el cómo escribir el código de lo que quiero hacer. Cuando quiera saber que librería utilizar, le preguntaré. De hecho, le voy a preguntar hasta que me oriente para resolver los posibles fallos que pueda tener en lugar de googlearlos y convertir la identificación del problema y resolución, con la habilidad de navegar por las webs propuestas por Google para tratar de identificar "algo lo más parecido posible" y arreglar. Sí Google, debes estar nervioso !!! 
 
 ## El plan
 El plan es el siguiente:
 
 **Día 1**
-
 - Python y BeautifulSoup para el poder descargar en local la BD fácilmente.
 
 **Día 2**
-
 - Python y Flask para la API.
 - Docker para el deploy en explotación en un home lab con comunicaciones https.
 
 **Día 3**
-
 - ReactJS para crear una app.
 
 **Día 4 - Bonus**
-
 - Crear una automatización en mi Home Assistant que me permita visualizar en mi panel una palabra random cada día, y escucharla por mis altavoces.
 - Crear un Bot de Telegram que me permita consultar el significado de una palabra.
 
