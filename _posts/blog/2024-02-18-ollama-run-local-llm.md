@@ -21,11 +21,11 @@ Si quieres trabajar con LLMs en local sin conexión de Internet, o no pasar por 
 
 ## Instalar Modelos LLMs en local con Ollama Server
 
-1; Descarga desde [Ollama.ai](https://ollama.com/) para tener servidor en local
+1. Descarga desde [Ollama.ai](https://ollama.com/) para tener servidor en local
 
 Ahora ya puedes ejecutar modelos como `Llama 2`, `Code Llama`, y otros. También permite modificar y crear modelos personalizados como harías con una imagen de Docker.
 
-2; Para utilizar Ollama:
+2. Para utilizar Ollama:
 
 - descargar modelos: `ollama pull llama2`. Existen muchos modelos en [https://ollama.com/library](https://ollama.com/library)
 - ejecutar modelos: `ollama run lava` y tendrás el modelo listo en una terminal
@@ -37,21 +37,21 @@ Ahora ya puedes ejecutar modelos como `Llama 2`, `Code Llama`, y otros. También
 - ejecutar una consulta multimodal sobre una imagen en tu disco local  `ollama run llava "what is in this image? /users/me/images/myimage.jpg"`
 - saber más: `ollama --help`
 
-3; Para saber más, puedes leer su blog en [https://ollama.ai/blog](https://ollama.ai/blog)y el canal de Youtube de su PM & Evangelist en [https://www.youtube.com/@technovangelist](https://www.youtube.com/@technovangelist) que van publicando lo último que van sacando, y mejoran muy rápido.
+3. Para saber más, puedes leer su blog en [https://ollama.ai/blog](https://ollama.ai/blog)y el canal de Youtube de su PM & Evangelist en [https://www.youtube.com/@technovangelist](https://www.youtube.com/@technovangelist) que van publicando lo último que van sacando, y mejoran muy rápido.
 
 ## Utilizar un asistente personal local con `VS Code` en lugar de Github Copilot
 
-1; Descargar `Cody Plugin` para `VS Code`:
+1. Descargar `Cody Plugin` para `VS Code`:
 
 - hacer el login con una cuenta de Github por ejemplo y autorizar su uso.
 - Abrir `Cody plugin settings / pick "⚙ Cody Extension Settings" with gear icon`.
 
-2; Hacer scroll hasta llegar abajo a y cambiar:
+2. Hacer scroll hasta llegar abajo a y cambiar:
 
 - opción `Cody > Autocomplete > Advanced: Provider` y seleccionar `experimental-ollama` o `unstable-ollama`.
 - opción `Cody > Autocomplete > Advanced: Model` y dejar `null` para dejarlo por defecto.
 
-3; Empezar a utilizar Cody como asistente ya dentro de `VS Code` pero esta vez en local, con tu LLM Open Source favorito por ejemplo `codellama:7b-code`.
+3. Empezar a utilizar Cody como asistente ya dentro de `VS Code` pero esta vez en local, con tu LLM Open Source favorito por ejemplo `codellama:7b-code`.
 
 ## Librerías para Python y JavaScript
 
