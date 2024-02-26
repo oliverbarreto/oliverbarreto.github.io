@@ -17,15 +17,13 @@ tags:
 comments: true
 share: true
 ---
-![image-center]({{ '/images/blogposts/2023-02-18-lenguacanaria.jpg' | absolute_url }}){: .align-center} 
+![image-center]({{ '/images/blogposts/20240218-randomcanario.jpeg' | absolute_url }}){: .align-center} 
 
-# Canario conoce tu lengua (Parte 2)!!!
+## Random Canario 🇮🇨 - Canario conoce tu lengua (Parte 2)
 
 Oopss !!! ...parece que el día 3 ha llevado un año. Pero nunca es tarde si la dicha es buena.
 
 Ya está disponible la aplicación básica de react y una nueva versión de la api con flask para darle servicio.
-
-## Random Canario 🇮🇨
 
 Puedes acceder al sitio web en [randomcanario.oliverbarreto.com](randomcanario.oliverbarreto.com). 
 La api, se encuentra también disponible en [randomdic.oliverbarreto.com](https://randomdic.oliverbarreto.com/)
