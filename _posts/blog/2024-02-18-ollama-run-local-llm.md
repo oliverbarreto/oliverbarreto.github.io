@@ -64,6 +64,8 @@ npm install ollama
 
 Para saber como utilizarlas tienes el blog [https://ollama.com/blog/python-javascript-libraries](https://ollama.com/blog/python-javascript-libraries) y video en su canal de Youtube.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUJHEvCqhdw?si=onmVNdL96M6vwndI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Utilizar la API REST de Ollama
 
 También puedes utilizar la API REST que funciona en la trastienda:
