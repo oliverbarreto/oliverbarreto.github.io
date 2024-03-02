@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-![image-center]({{ '/images/blogposts/20240301-bioguagua.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2022-02-25-cat-computer.gif' | absolute_url }}){: .align-center}
 
 # Prettier: se me olvida ponerme guapo
 
