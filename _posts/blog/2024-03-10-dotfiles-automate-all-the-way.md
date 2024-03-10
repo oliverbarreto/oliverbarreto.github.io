@@ -23,7 +23,7 @@ Inspirado en cómo monté hace 2 años el Macbook Pro M1 de empresa hace, hace u
 
 Esta semana cuando un compañero configuró se nuevo M3, recordé que debía subirlo y escribirlo en piedra digital para que no se me vuelva a olvidar.
 
-## Symlinks 
+## El truco: Symlinks & Home Brew
 
 Sabiendo que existen múltiples herramientas de gestión y automatización para trabajar con `symlinks` y dotfiles, quise aprender los conceptos detrás y realizar un proceso lo más automatizado posible... dentro de la simpleza de herramientas estándar. 
 
