@@ -19,7 +19,7 @@ share: true
 
 ## Intentando ver la v(ALÍA) de ALIA
 
-El Gobierno de España, en colaboración con el Barcelona Supercomputing Center (BSC), ha lanzado ALIA, un modelo de lenguaje masivo (LLM) enfocado en el español y las lenguas cooficiales. Tras probarlo, aquí te cuento mis impresiones.
+El Gobierno de España, en colaboración con el Barcelona Supercomputing Center (BSC), ha lanzado [ALIA](https://alia.gob.es), un modelo de lenguaje masivo (LLM) enfocado en el español y las lenguas cooficiales, que está [disponible en Huggingface](https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto). Tras probarlo, aquí te cuento mis impresiones.
 
 ### Un paso adelante en la IA en español
 
