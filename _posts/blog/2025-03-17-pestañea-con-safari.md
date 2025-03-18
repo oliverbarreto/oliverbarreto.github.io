@@ -16,8 +16,6 @@ share: true
 
 ![image-center]({{ '/images/blogposts/20250317-safari-tabs.png' | absolute_url }}){: .align-center}
 
-
-
 # Pestañear ya no es un problema en Safari  
 
 Si alguna vez has intentado cambiar de pestaña en Safari con el teclado, sabrás que es una experiencia parecida a hacer yoga con los dedos. La combinación predeterminada es `OPTION + CONTROL + TAB`, lo cual no solo es difícil de recordar, sino que además requiere una flexibilidad digital que pocos tenemos.  
