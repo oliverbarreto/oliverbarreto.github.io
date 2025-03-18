@@ -31,7 +31,7 @@ He puesto a prueba ALIA para ver si cumple con su propuesta de valor. Aquí te d
 
 * **Entrenamiento en español:** ALIA destaca por estar entrenado con un gran volumen de datos en español y lenguas cooficiales. Esto le da una ventaja a la hora de entender el contexto y los matices de nuestro idioma.
 
-![image-center]({{ ['/images/blogposts/20250317-ALIA-logo-warning.png'](https://huggingface.co/BSC-LT/ALIA-40b/resolve/main/images/corpus_languages.png) | absolute_url }}){: .align-center}
+![image-center](https://huggingface.co/BSC-LT/ALIA-40b/resolve/main/images/corpus_languages.png){: .align-center}
 
 * **Pruebas de rendimiento:** He realizado diversas pruebas para evaluar la capacidad de ALIA para entender el contexto en español. Los resultados han sido variados, con algunas respuestas muy buenas y otras mejorables.
 * **Limitaciones:** ALIA aún tiene algunas limitaciones, como un contexto de 4,096 tokens, que se queda corto comparado con otros modelos. Tampoco cuenta con capacidades como "Tool Calling", "Structured Output", ni "Reasoning".
