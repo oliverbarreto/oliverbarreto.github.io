@@ -7,6 +7,8 @@ categories:
   - Procesamiento del Lenguaje Natural
 tags:
   - ALIA
+  - IA
+  - AI
   - LLM
   - Gobierno de España
   - BSC
@@ -23,7 +25,7 @@ El Gobierno de España, en colaboración con el Barcelona Supercomputing Center 
 
 ## Un paso adelante en la IA en español
 
-Como alguien que ha trabajado en el pasado con el BSC en el proyecto TANGO: Transparent heterogeneous hardware Architecture deployment for eNergy Gain in Operation (https://www.bsc.es/research-and-development/projects/tango-transparent-heterogeneous-hardware-architecture-deployment), puedo decir que siempre han estado a la vanguardia en tecnologías del lenguaje e inteligencia artificial. ALIA es un ejemplo más de su compromiso con el desarrollo de herramientas para nuestra lengua, financiado eso sí, por el Gobierno de España.
+Como alguien que ha trabajado en el pasado con el BSC en el proyecto [TANGO: Transparent heterogeneous hardware Architecture deployment for eNergy Gain in Operation](https://www.bsc.es/research-and-development/projects/tango-transparent-heterogeneous-hardware-architecture-deployment), puedo decir que siempre han estado a la vanguardia en tecnologías del lenguaje e inteligencia artificial. ALIA es un ejemplo más de su compromiso con el desarrollo de herramientas para nuestra lengua, financiado eso sí, por el Gobierno de España.
 
 <!--more-->
 
