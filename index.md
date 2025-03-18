@@ -4,7 +4,7 @@ title: Product Marketing, Business and Technology !!!
 excerpt: "Oliver Barreto's Personal Blog... lost in translation in Marketing, Business and Technologhy !!!"
 paginate: false
 show_excerpts: true
-entries_layout: grid
+entries_layout: list
 image: 
   path: /images/colors.jpg
   thumbnail: /images/colors.jpg
