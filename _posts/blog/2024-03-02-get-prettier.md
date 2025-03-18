@@ -22,6 +22,8 @@ Ahora, el truco está en que cuando instalas el plugin de VS Code, no basta con 
 
 Recordatorio para mi mismo...
 
+<!--more-->
+
 Cuando instalas la extensión queda claro que debes activarlo como `Default Formatter` en `VS Code Settings`. Para ello, `SHIFT + CMD  + P` para abrir la paleta de comandos y filtra por `opensettingsjson` `workbench` & `user` y puede ser utilizado para TODOS los lenguajes o alguno específico. Por ejemplo, para JavaScript:
 
 ```json

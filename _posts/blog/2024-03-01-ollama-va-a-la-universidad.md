@@ -22,6 +22,8 @@ Ya está disponible la versión de `llava` en [https://ollama.com/library/llava]
 
 Lo he enviado en la `bioguagua` a estudiar Bio-Medicina a la universidad y le he marcado algunas tareas, ejecutando una consulta multimodal sobre una imagen en disco con  `ollama run llava "what is in this image? /users/me/images/myimage.jpg"`
 
+<!--more-->
+
 A lo que me ha respondido:
 
 ![image-center]({{ '/images/blogposts/20240301-bioguagua-01.png' | absolute_url }}){: .align-center}

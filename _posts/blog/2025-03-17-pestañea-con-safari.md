@@ -20,6 +20,8 @@ share: true
 
 Si alguna vez has intentado cambiar de pestaña en Safari con el teclado, sabrás que es una experiencia parecida a hacer yoga con los dedos. La combinación predeterminada es `OPTION + CONTROL + TAB`, lo cual no solo es difícil de recordar, sino que además requiere una flexibilidad digital que pocos tenemos.  
 
+<!--more-->
+
 En otros navegadores más centrados en la usabilidad, como **Arc**, este problema simplemente no existe. En Arc, cambiar de pestaña es tan natural como respirar: `OPTION + CMD + →` o `OPTION + CMD + ←`. Y si quieres abrir la barra lateral con todos tus grupos de pestañas, solo usas `OPTION + CMD + S`. Rápido, intuitivo y sin complicaciones.  
 
 Pero, si por alguna razón **sigues en Safari y te niegas a cambiar**, hay una solución: puedes asignar tus propios atajos de teclado.  

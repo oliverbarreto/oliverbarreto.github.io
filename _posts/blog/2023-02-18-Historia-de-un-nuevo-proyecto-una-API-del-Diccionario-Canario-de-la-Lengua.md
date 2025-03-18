@@ -23,6 +23,7 @@ share: true
 Recuerdas lo de "Canario conoce tu Tierra" ??? pues ya va siendo hora de que también te acostumbres a lo de "Canario conoce tu Lengua". Por eso vamos a tratar de hacer fácil el poder acceder en distintos servicios online al diccionario de la lengua que se habla en esta tierra, o poder ofrecer una palabra "random" cada día, y otros casos de uso.
 
 También me sirve para documentar el cómo llevar una idea a la realidad en menos de 3 días utilizando varias tecnologías.
+
 <!--more-->
 
 Además, todo esto tiene un truco. Como no soy desarrollador profesional siempre digo que "nunca trabajaría para una empresa que me contrate como desarrollador" 😂 con el sentido de decir que sé programar, pero no soy experto, sé los conceptos, pero no tengo práctica del día a día, no tengo bien entrenado con la práctica y repetición diaria el músculo de memoria para darle a la tecla sin parar, y desde luego, sin tener errores. 

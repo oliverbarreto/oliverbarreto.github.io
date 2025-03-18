@@ -25,6 +25,8 @@ Si quieres trabajar con LLMs en local sin conexión de Internet, o no pasar por 
 
 Ahora ya puedes ejecutar modelos como `Llama 2`, `Code Llama`, y otros. También permite modificar y crear modelos personalizados como harías con una imagen de Docker.
 
+<!--more-->
+
 2.Para utilizar Ollama:
 
 - descargar modelos: `ollama pull llama2`. Existen muchos modelos en [https://ollama.com/library](https://ollama.com/library)

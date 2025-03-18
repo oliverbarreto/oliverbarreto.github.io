@@ -18,6 +18,8 @@ A note to my future self...
 
 Instead of thinking in terms of copying a line of text, moving to the place you want to place it, and then (finally) paste it there... think in terms of just: move the line directly to the place you want it to be.
 
+<!--more-->
+
 **Move a line in VS Code & Obsidian**
 0. Place the cursor on the line you want to move. Select multiple lines if you want by holding down `SHIFT` key.
 1. Press `ALT + ARROW Keys` to move the selected lines up or down to the desired location

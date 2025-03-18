@@ -16,6 +16,7 @@ share: true
 
 ![image-center]({{ '/images/blogposts/20220529-React_logo-700x235.png' | absolute_url }}){: .align-center} 
 It might seem to be a litle bit too late, but... it's never late to learn something new.
+
 <!--more-->
 
 And before trying to repeat myself, "first of all, I am no professional developer. I am an enthusiast developer". I like to learn new technologies in order to keep up with my work and be able to really understand what's inside the box, how difficult things are and what's really needed in order to build a piece of software in real world.

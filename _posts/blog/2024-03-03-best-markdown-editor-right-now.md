@@ -23,6 +23,9 @@ Sólo tienes que:
 
 2. Hacer que sea fácil abrir un archivo o directorio directamente en VS Code desde Finder. También puedes ser un ninja y saber que existe desde la terminal `code .`, si no lo sabías, apréndetelo !!! Para ello, dejo la chuleta de cómo hacerlo con (con nuestro viejo y potente amigo) `Apple Automator` en [https://www.youtube.com/watch?v=dcjevVMhpoM](https://www.youtube.com/watch?v=dcjevVMhpoM):
 
+...
+<!--more-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcjevVMhpoM?si=vMLRINxaACQsVODF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 3. Instalar el plugin de `Auto-Open Markdown Preview` en VS Code desde https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview

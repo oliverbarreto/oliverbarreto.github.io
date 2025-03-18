@@ -28,6 +28,8 @@ Ya está disponible la aplicación básica de react y una nueva versión de la a
 Puedes acceder al sitio web en [randomcanario.oliverbarreto.com](randomcanario.oliverbarreto.com). 
 La api, se encuentra también disponible en [randomdic.oliverbarreto.com](https://randomdic.oliverbarreto.com/)
 
+<!--more-->
+
 ## Funcionalidad Actual
 
 La  aplicación tiene las siguientes funcionalidades:

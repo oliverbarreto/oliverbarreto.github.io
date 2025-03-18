@@ -19,6 +19,8 @@ No lo recuerdes todo ... sólo todo lo que necesites recordar !!!
 
 Almacenar cosas está bien... pero no las almacenes en texto plano... ponle puertas al campo y usa una contraseña para almacenar zips
 
+<!--more-->
+
 # Cómo crear passwords para tus ficheros zip fácilmente en macOS:
 
 A gentle reminder to my future self:
