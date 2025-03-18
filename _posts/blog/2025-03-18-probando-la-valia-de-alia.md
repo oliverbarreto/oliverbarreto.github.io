@@ -1,7 +1,7 @@
 ---
 title: "Intentando probar la v(ALÍA) de ALIA: Primeras pruebas con el LLM del Gobierno de España"
 description: "Análisis inicial del modelo de lenguaje ALIA del Gobierno de España, con pruebas de rendimiento y entendimiento del contexto en español."
-excerpt_separator: ""
+excerpt_separator: "<!--more-->"
 categories:
   - Inteligencia Artificial
   - Procesamiento del Lenguaje Natural
