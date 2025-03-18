@@ -1,5 +1,5 @@
 ---
-title: "Intentando ver la v(ALÍA) de ALIA: Primeras pruebas con el LLM del Gobierno de España"
+title: "Intentando probar la v(ALÍA) de ALIA: Primeras pruebas con el LLM del Gobierno de España"
 description: "Análisis inicial del modelo de lenguaje ALIA del Gobierno de España, con pruebas de rendimiento y entendimiento del contexto en español."
 excerpt_separator: ""
 categories:
@@ -17,15 +17,15 @@ share: true
 
 ![image-center]({{ '/images/blogposts/20250317-ALIA-logo-warning.png' | absolute_url }}){: .align-center}
 
-## Intentando ver la v(ALÍA) de ALIA
+# Intentando probar la v(ALÍA) de ALIA
 
 El Gobierno de España, en colaboración con el Barcelona Supercomputing Center (BSC), ha lanzado [ALIA](https://alia.gob.es), un modelo de lenguaje masivo (LLM) enfocado en el español y las lenguas cooficiales, que está [disponible en Huggingface](https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto). Tras probarlo, aquí te cuento mis impresiones.
 
-### Un paso adelante en la IA en español
+## Un paso adelante en la IA en español
 
 Como alguien que ha trabajado en el pasado con el BSC en el proyecto TANGO: Transparent heterogeneous hardware Architecture deployment for eNergy Gain in Operation (https://www.bsc.es/research-and-development/projects/tango-transparent-heterogeneous-hardware-architecture-deployment), puedo decir que siempre han estado a la vanguardia en tecnologías del lenguaje e inteligencia artificial. ALIA es un ejemplo más de su compromiso con el desarrollo de herramientas para nuestra lengua, financiado eso sí, por el Gobierno de España.
 
-### Probando la "vALíA" de ALIA
+## Probando la "vALíA" de ALIA
 
 He puesto a prueba ALIA para ver si cumple con su propuesta de valor. Aquí te dejo mis conclusiones:
 
@@ -37,7 +37,7 @@ He puesto a prueba ALIA para ver si cumple con su propuesta de valor. Aquí te d
 * **Limitaciones:** ALIA aún tiene algunas limitaciones, como un contexto de 4,096 tokens, que se queda corto comparado con otros modelos. Tampoco cuenta con capacidades como "Tool Calling", "Structured Output", ni "Reasoning".
 * **"Guardrails":** He intentado poner a prueba las restricciones éticas de ALIA, con resultados diversos. Que pueden "traer cola".
 
-### Pruebas realizadas
+## Pruebas realizadas
 
 * **Entendimiento del contexto:** He realizado pruebas para evaluar la capacidad de ALIA para entender el contexto en español, desde el nivel léxico hasta el cultural.
 * **Generación de código:** He probado la capacidad de ALIA para generar código Python en español, con resultados similares a otros modelos como ChatGPT y Gemini.
@@ -46,7 +46,7 @@ He puesto a prueba ALIA para ver si cumple con su propuesta de valor. Aquí te d
 
 Espero poder darle formato a las pruebas realizadas, así como poder llevar a cabo algunas más, y poder sacar un nuevo post con más detalles.
 
-### Conclusiones
+## Conclusiones
 
 ALIA es un modelo que tiene mucho margen de mejora, pero es un primer paso. Lo importante es empezar a andar y a ofrecer múltiples soluciones. 
 
