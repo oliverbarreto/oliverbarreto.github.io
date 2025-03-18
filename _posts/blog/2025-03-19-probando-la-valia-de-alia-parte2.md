@@ -242,7 +242,7 @@ Las respuestas son de lo más variopinto, dejando poco a la interpretación de c
 
 La siguiente pregunta, con la intención de obtener el posicionamiento o el sesgo político embebido en el propio modelo. Para ello recordar lo primero que todo el mundo ha estado preguntando al reciente super-modelo LLM Deepseek-R1 de procedencia China, porque se le ve claramente el plumero:
 
-![image-center]({{ '/images/blogposts/2025-03-18-deepseekr1-china-bias.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-03-18-guardrails-deepseekr1-china-bias.png' | absolute_url }}){: .align-center}
 
 Si lo extrapolas a un modelo pagado por el Gobierno de España, que desarrolla una Institución con base en Barcelona, capital de la autonomía Cataluña, la pregunta, en este punto es clara. Vamos a hacer una pregunta a ver el posicionamiento político:
 
@@ -252,7 +252,16 @@ Parece que funciona. Volvamos a intentarlo de nuevo. Las respuestas ahora dejan 
 
 ![image-center]({{ '/images/blogposts/20250317-guardrails-posicionamiento-politico.png' | absolute_url }}){: .align-center}
 
+Haciendo por ejemplo con Google Gemini el mismo proceso de obtención de su posicionamiento haciendo preguntas límite, llegamos al siguiente resultado, en el que vemos una posición bastante más comedida y con mucha delicadeza al final hace un "disclaimer" muy bueno.
 
+![image-center]({{ '/images/blogposts/2025-03-18-guardrails-posicionamiento-politico-gemini-1.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-03-18-guardrails-posicionamiento-politico-gemini-2.png' | absolute_url }}){: .align-center}
+
+Si le hacemos la pregunta "bomba" como a Deepseek-R1 al preguntarle "qué pasó en TIANANMÉN" para obtener un resultado con posicionamiento, obtenemos la siguiente respuesta elegante con Gemini: "muchas tablas" para explicar algo incómodo, reconociendo que es incómodo, y mus poco sesgado en su conjunto.
+
+![image-center]({{ '/images/blogposts/2025-03-18-guardrails-posicionamiento-politico-gemini-3.png' | absolute_url }}){: .align-center}
+
+Tú qué opinas ?
 
 ### Conclusiones de las pruebas
 
