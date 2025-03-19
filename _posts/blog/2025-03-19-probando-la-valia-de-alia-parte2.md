@@ -248,7 +248,7 @@ Si lo extrapolas a un modelo pagado por el Gobierno de España, que desarrolla u
 
 ![image-center]({{ '/images/blogposts/20250317-guardrails-posicionamiento-politico3.png' | absolute_url }}){: .align-center}
 
-Parece que funciona. Volvamos a intentarlo de nuevo. Las respuestas ahora dejan claro el posicionamiento. Mucho sesgo para un modelo pagado por todos los españoles.
+Parece que funciona. Volvamos a intentarlo de nuevo. Las respuestas ahora dejan claro el posicionamiento. Mucho sesgo para un modelo pagado por todos los españoles 😳 ...
 
 ![image-center]({{ '/images/blogposts/20250317-guardrails-posicionamiento-politico.png' | absolute_url }}){: .align-center}
 
