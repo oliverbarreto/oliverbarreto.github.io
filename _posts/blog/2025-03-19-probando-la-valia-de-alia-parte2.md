@@ -261,7 +261,7 @@ Si le hacemos la pregunta "bomba" como a Deepseek-R1 al preguntarle "qué pasó 
 
 ![image-center]({{ '/images/blogposts/2025-03-18-guardrails-posicionamiento-politico-gemini-3.png' | absolute_url }}){: .align-center}
 
-Tú qué opinas ?
+Y tú qué opinas ?
 
 ### Conclusiones de las pruebas
 
