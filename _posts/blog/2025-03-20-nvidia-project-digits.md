@@ -17,7 +17,7 @@ comments: true
 share: true
 ---
 
-![image-center]({{ '/images/blogposts/2013-03-20-nvidia-project-digits-reservation.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2015-03-20-nvidia-project-digits-reservation.png' | absolute_url }}){: .align-center}
 
 # Patiently wAIting !!!
 
@@ -40,4 +40,4 @@ Lo malo es que no es tan buena ni barata como pensaba, y como habían anunciado 
 
 Ya veo donde estaré en la cadena alimenticia de NVIDIA, pero tendré un mini-Jarvis en casa.
 
-![image-center]({{ '/images/blogposts/2013-03-20-nvidia-AI-Infrastructure-for-Enterprise-Computing.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-03-20-nvidia-AI-Infrastructure-for-Enterprise-Computing.png' | absolute_url }}){: .align-center}
