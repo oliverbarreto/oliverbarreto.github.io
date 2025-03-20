@@ -21,7 +21,7 @@ share: true
 
 # Patiently wAIting !!!
 
-Ayer era el día en que NVIDIA celebraba su conferencia mundial GTC 2025, y si quieres ver todo lo que anunciaron de forma rápida te recomiendo este resumen: [Nvidia's GTC 2025 Keynote: Everything Announced in 16 Minutes](https://www.youtube.com/watch?v=erhqbyvPesY).
+El lunes era el día en que NVIDIA celebraba su conferencia mundial GTC 2025, y si quieres ver todo lo que anunciaron de forma rápida te recomiendo este resumen: [Nvidia's GTC 2025 Keynote: Everything Announced in 16 Minutes](https://www.youtube.com/watch?v=erhqbyvPesY).
 
 El CEO de NVIDIA, Jensen Huang, dijo que "el 100% de los ingenieros de software en el futuro, y hay 30 millones de ellos en todo el mundo, estarán asistidos por IA. Estoy seguro de que el 100% de los ingenieros de software de NVIDIA estarán asistidos por IA para finales de este año. Y, por lo tanto, los agentes de IA estarán en todas partes".
 <!--more-->
