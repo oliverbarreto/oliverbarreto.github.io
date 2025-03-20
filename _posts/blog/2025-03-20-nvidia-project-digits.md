@@ -17,7 +17,7 @@ comments: true
 share: true
 ---
 
-![image-center]({{ '/images/blogposts/2015-03-20-nvidia-project-digits-reservation.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-03-20-nvidia-project-digits-reservation.png' | absolute_url }}){: .align-center}
 
 # Patiently wAIting !!!
 
