@@ -21,4 +21,4 @@ share: true
 
 Ya veo donde estaré en la cadena alimenticia de NVIDIA, pero tendré un mini-Jarvis en casa.
 
-![image-center]({{ '/images/blogposts/2025-03-21-nvidia-AI-Infrastructure-for-Enterprise-Computing.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-03-21-nvidia-AI-Infrastructure-for-Enterprise-Computing-homeAI.png' | absolute_url }}){: .align-center}
