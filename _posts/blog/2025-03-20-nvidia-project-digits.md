@@ -1,6 +1,6 @@
 ---
 title: "Patiently wAIting"
-description: "Primer paso para "
+description: "El primer paso para tener un mini-Jarvis en casa"
 excerpt_separator: "<!--more-->"
 categories:
   - Inteligencia Artificial
@@ -38,6 +38,3 @@ Pues hoy ya me ha llegado el correo que puedo hacer mi reserva, y eso he hecho. 
 
 Lo malo es que no es tan buena ni barata como pensaba, y como habían anunciado en el CES a principios de año, pero bueno, ya veré si finalmente hago efectiva la reserva. Tiene un precio de 3.999$, que no es para nada barata, pero viene con 4TB, 128 de Memoria, muchos CUDA Cores de serie, y desde luego no cuesta lo que una RTX 5090, ni viene limitada por los 24GB de la GPU. Pero tiene el defecto de tiene un ancho de banda de memoria de 273GB/s, que es bastante lento comparado por ejemplo con una simple 4070, o un Mac Mini M4. 
 
-Ya veo donde estaré en la cadena alimenticia de NVIDIA, pero tendré un mini-Jarvis en casa.
-
-![image-center]({{ '/images/blogposts/2025-03-20-nvidia-AI-Infrastructure-for-Enterprise-Computing.png' | absolute_url }}){: .align-center}
