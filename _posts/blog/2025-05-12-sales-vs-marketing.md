@@ -16,4 +16,4 @@ share: true
 
 Sutilezas del Marketing que hacen que tu cerebro entiendas las cosas de otra manera, y lo predisponga para actuar de otra manera. Cuál es la diferencia ? Mucha ... 
 
-![image-center]({{ '/images/blogposts/2025-03-24-sales-vs-marketing-2.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blogposts/2025-05-12-sales-vs-marketing-2.png' | absolute_url }}){: .align-center}
