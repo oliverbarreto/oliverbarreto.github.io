@@ -31,7 +31,7 @@ El cambio no espera a que estemos listos. Simplemente avanza.
 
 La sustitución en este caso se producirá en los puestos de trabajo. Y ya ha comenzado. Que te quede claro. Te lo resumo:
 
-- La rebolución industrial sustituyó al músculo humano por máquinas.
+- La revolución industrial sustituyó al músculo humano por máquinas.
 - La revolución de la información eliminó las distancias.
 - La revolución de las redes sociales podemos decir que en parte culmina con la sustitución del sentir y del pensar de forma independiente de las personas (de muchas, está demostrado la manipulación de individuos y masas, el filtro de burbuja, la post-verdad, etc) terminando en la presentación de contenido "para ti": búsquedas personalizadas, sistemas de recomendación y curación algorítmica que terjiversan el prisma con el que se ofrece un mismo hecho para distintas personas, creando verdades diferentes. Y por último
 - La IA va a terminar con la capacidad de razonamiento y creatividad, nos vuelve más tontos día a día. 
