@@ -38,8 +38,10 @@ La sustitución en este caso se producirá en los puestos de trabajo. Y ya ha co
 
 Como se suele decir:
 > "Pienso luego existo" 
+
 > "Somos Cuerpo, Mente y Alma"
 
-... quedará algo en lo que una persona "humana" como  se dice ahora, aportará valor ??? 
+... quedará algo en lo que una persona "humana", como  se dice ahora, aportará valor ??? 
 
-Recemos, porque ya sólo queda del alma, la chispa. Entonces, se habrá acabado. Si no se acaba antes. 
+Recemos, porque ya sólo queda del alma, la chispa. Entonces, se habrá acabado. 
+Si no se acaba antes. 
