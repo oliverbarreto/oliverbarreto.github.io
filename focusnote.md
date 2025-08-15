@@ -4,7 +4,7 @@ title: Focus Note
 excerpt: "Minimalist note-taking for focused writing on macOS"
 ---
 
-# ![Focus Note logo](images/focusnote_icon_v6_512x512.png "Minimalist note-taking for focused writing") Focus Note - Minimalist note-taking for focused writing.
+# ![Focus Note logo](/images/focusnote_icon_v6_128x128.png "Minimalist note-taking for focused writing") Focus Note - Minimalist note-taking for focused writing.
 
 **Built for the Focused, by the Frustrated.**
 
