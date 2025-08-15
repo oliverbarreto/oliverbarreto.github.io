@@ -1,0 +1,90 @@
+---
+alwaysApply: true
+---
+
+## Project Overview
+
+This is a personal blog website built with Jekyll (https://jekyllrb.com/) and hosted on GitHub Pages. It uses the "So Simple" theme by Michael Rose (https://github.com/mmistakes/so-simple-theme) and is deployed at https://oliverbarreto.com.
+
+The site features blog posts primarily in the `_posts/blog/` directory, with content about technology, productivity, and development topics.
+
+## Blog - Website Structure
+
+The blog website has the following structure defined in the `_data/navigation.yml` file:
+
+```yaml
+- title: Home
+  url: / # This is the home page - index.md file
+- title: Blog
+  url: /posts/ # This is the home page - posts.md file. Blog posts are handled by the theme,  we just need to create a file for each post in the _posts/blog/ directory
+- title: Projects # This is a page about relevant projects that I have done, or currently working on.
+  url: /projects/ # This is the projects page - projects.md file
+- title: CallsOnYourMac # This is a Product Page of one of my personal projects: "Calls On Your Mac", a macOS app that allows you to make phone/video calls from your Mac using Continuity and the iPhone. It also allows users to manage Google Meet/Webex/Zoom.
+  url: /callsonyourmac/ # This is the calls on your mac page - callsonyourmac.md file
+- title: Search
+  url: /search/ # This is the search page - search.md file. This is a simple search page that allows you to search the blog posts.
+```
+
+## Development Commands
+
+### Local Development Setup
+
+**Important**: Before running locally, you must modify `_config.yml` to enable the local theme:
+
+1. Uncomment this line: `theme: jekyll-theme-so-simple`
+2. Keep this line: `remote_theme: "mmistakes/so-simple-theme@3.2.0"`
+
+**Warning**: Before pushing to GitHub, you must comment out the local theme line again to prevent GitHub Actions failures.
+
+### Running the Site Locally
+
+```bash
+# Build and run with Docker (recommended)
+docker compose build --no-cache
+docker compose up -d
+```
+
+The site will be available at http://localhost:4000. The Docker container has hot reloading enabled, so changes to local files will be reflected automatically.
+
+### Stopping Local Development
+
+```bash
+docker compose down
+```
+
+## Project Architecture
+
+### Directory Structure
+
+- `_posts/blog/` - All blog posts in Markdown format with YAML front matter
+- `_data/` - Site configuration data (navigation, authors, text)
+- `_config.yml` - Jekyll configuration and site settings
+- `images/` - Static assets including blog post images in `images/blogposts/`
+- `downloads/` - Downloadable files and assets
+
+### Theme Configuration
+
+The site uses a remote theme setup that switches between local and production modes:
+
+- **Local development**: Uses `theme: jekyll-theme-so-simple`
+- **Production (GitHub Pages)**: Uses `remote_theme: "mmistakes/so-simple-theme@3.2.0"`
+
+### Content Management
+
+Blog posts follow Jekyll conventions:
+
+- File naming: `YYYY-MM-DD-title.md` in `_posts/blog/`
+- YAML front matter with layout, title, and other metadata
+- Images stored in `images/blogposts/` with descriptive filenames
+- Posts are automatically organized by date and categories
+
+### Deployment
+
+The site auto-deploys to GitHub Pages when changes are pushed to the main branch. Ensure the `_config.yml` is set to production mode (local theme commented out) before pushing.
+
+## Important Notes
+
+- Always verify theme configuration before pushing to prevent build failures
+- Images should be optimized and placed in appropriate subdirectories
+- The site uses Google Analytics (UA-46702055-1) and Disqus comments
+- Navigation is configured in `_data/navigation.yml`
