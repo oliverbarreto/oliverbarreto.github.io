@@ -40,6 +40,6 @@ I’m not what you’d call a professional, full-time developer. My background i
 
 Then, everything changed. The recent explosion in AI Development Assistants created a new possibility. Suddenly, I had a partner. I could bring my product vision, my design sense, and my coding skills to the table, and the AI assistant could help me bridge the gaps, accelerate the development, and handle the heavy lifting.
 
-This journey was no longer a distant dream. It was something I could start right now And so, with my own frustrations as the blueprint and an AI assistant as my tech savvy co-founder, I have built Focus Note. Read more about it [https://oliverbarreto.com/focusnoteapp](https://oliverbarreto.com/focusnoteapp).
+This journey was no longer a distant dream. It was something I could start right now And so, with my own frustrations as the blueprint and an AI assistant as my tech savvy co-founder, I have built Focus Note. Read more about it [https://oliverbarreto.com/focusnote](https://oliverbarreto.com/focusnote).
 
 The first (really usable beta) version is now available for download. I don't care if it will always be a beta. I like it the way it already is. And the potential that it has to grow is already mind-blowing.
