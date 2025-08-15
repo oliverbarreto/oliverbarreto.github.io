@@ -100,7 +100,7 @@ App:
 
 Download the latest version of Focus Note:
 
-![Focus Note logo](/images/focusnote_icon_32x32.png "Download Focus Note") [Focus Note v0.3.1 macOS - ARM64 for Apple Silicon](https://drive.google.com/file/d/1_XwmrT0OzH9xkcv6uClvF0H_E3Sm4j_G/view?usp=sharing)
+![Focus Note logo](/images/focusnote_icon_v6_32x32.png "Download Focus Note") [Focus Note v0.3.1 macOS - ARM64 for Apple Silicon](https://drive.google.com/file/d/1_XwmrT0OzH9xkcv6uClvF0H_E3Sm4j_G/view?usp=sharing)
 
 ## Requirements
 
