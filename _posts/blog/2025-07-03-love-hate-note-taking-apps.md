@@ -1,5 +1,5 @@
 ---
-title: "My Decade-Long, Love-Hate Relationship with Note-Taking Apps"
+title: "My Decade-Long, Love-Hate Relationship with Note-Taking Apps. Until now."
 description: "My Decade-Long, Love-Hate Relationship with Note-Taking Apps"
 excerpt_separator: "<!--more-->"
 categories:
@@ -17,6 +17,8 @@ share: true
 # My Decade-Long, Love-Hate Relationship with Note-Taking Apps
 
 If you're anything like me, your digital life is a graveyard of abandoned note-taking apps. For over a decade, I've been on a relentless quest for the perfect digital notebook, a journey that has left me with a mixture of appreciation and intense frustration.
+
+Until now... that I have built my own.
 
 ![image-center]({{ '/images/blogposts/2025-07-03-love-hate-note-taking-apps.png' | absolute_url }}){: .align-center}
 
