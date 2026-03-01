@@ -44,6 +44,51 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 2. Commit and push to Github
 3. Github Pages will automatically build the site and make it available at www.oliverbarreto.com
 
+# So Simple theme + Docker setup
+
+This section documents how the [So Simple theme](https://github.com/mmistakes/so-simple-theme) is configured for local development with Docker. GitHub Pages fetches the theme automatically when using `remote_theme`, but for local Jekyll runs we need to install the `jekyll-remote-theme` plugin.
+
+## Steps performed
+
+1. **Gemfile** — Add the remote theme plugin and Jekyll plugins used by the site:
+
+   ```ruby
+   source "https://rubygems.org"
+
+   gem "jekyll", "~> 4.4"
+   gem "bundler"
+   gem "jekyll-remote-theme"
+   gem "jekyll-seo-tag"
+   gem "jekyll-sitemap"
+   gem "jekyll-feed"
+   gem "jekyll-paginate"
+   ```
+
+2. **`_config.yml`** — Register `jekyll-remote-theme` as the first plugin (it must run before Jekyll fetches the theme):
+
+   ```yaml
+   plugins:
+     - jekyll-remote-theme
+     - jekyll-seo-tag
+     - jekyll-sitemap
+     - jekyll-feed
+     - jekyll-paginate
+   ```
+
+3. **Dockerfile** — Ensure the Gemfile is copied and dependencies are installed:
+
+   ```dockerfile
+   COPY Gemfile* /srv/jekyll/
+   RUN bundle install
+   ```
+
+4. **`remote_theme` in `_config.yml`** — Keep the existing config (no need to switch for local vs production):
+
+   ```yaml
+   remote_theme: "mmistakes/so-simple-theme@3.2.0"
+   ```
+
+When the Docker container starts, `jekyll-remote-theme` fetches the theme from GitHub, compiles the Sass/CSS, and serves the styled site at http://localhost:4000. The same `remote_theme` config works for both local Docker builds and GitHub Pages.
 
 
 

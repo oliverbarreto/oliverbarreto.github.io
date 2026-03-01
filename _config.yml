@@ -81,6 +81,7 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/ruby/
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed

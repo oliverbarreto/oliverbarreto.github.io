@@ -14,9 +14,9 @@ RUN gem install jekyll bundler
 # Create a working directory
 WORKDIR /srv/jekyll
 
-# Copy Gemfile and install dependencies
-COPY Gemfile Gemfile.lock /srv/jekyll/
-RUN bundle install || true  # Ignore errors if Gemfile.lock is missing
+# Copy Gemfile (and Gemfile.lock if present) and install dependencies
+COPY Gemfile* /srv/jekyll/
+RUN bundle install
 
 # Expose default Jekyll port
 EXPOSE 4000
