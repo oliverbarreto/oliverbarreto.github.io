@@ -19,8 +19,12 @@ The blog website has the following structure defined in the `_data/navigation.ym
   url: /posts/ # This is the home page - posts.md file. Blog posts are handled by the theme,  we just need to create a file for each post in the _posts/blog/ directory
 - title: Projects # This is a page about relevant projects that I have done, or currently working on.
   url: /projects/ # This is the projects page - projects.md file
-- title: CallsOnYourMac # This is a Product Page of one of my personal projects: "Calls On Your Mac", a macOS app that allows you to make phone/video calls from your Mac using Continuity and the iPhone. It also allows users to manage Google Meet/Webex/Zoom.
-  url: /callsonyourmac/ # This is the calls on your mac page - callsonyourmac.md file
+- title: CallsOnYourMac # Product page - callsonyourmac.md: macOS app for phone/video calls via Continuity, Google Meet/Webex/Zoom
+  url: /callsonyourmac/
+- title: FocusNote # Product page - focusnote.md: minimalist note-taking app for macOS
+  url: /focusnote/
+- title: Terremotos Canarias # Product page - terremotoscanarias.md: real-time earthquake app for the Canary Islands (iOS + macOS)
+  url: /terremotoscanarias/
 - title: Search
   url: /search/ # This is the search page - search.md file. This is a simple search page that allows you to search the blog posts.
 ```
