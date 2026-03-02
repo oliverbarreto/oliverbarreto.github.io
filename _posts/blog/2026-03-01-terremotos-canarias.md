@@ -1,24 +1,29 @@
 ---
-title: "Focus Note Wallpaper"
-description: "Simple yet beautiful wallpaper for Focus Note"
+title: "The Earth moves in Canarias"
+description: "So many earthquakes in Canariasduring the last weeks. We need to stay informed."
 excerpt_separator: "<!--more-->"
 categories:
-  - Focus Note
+  - Actualidad
 tags:
-  - Focus Note
-  - Wallpaper
+  - Canarias
+  - Canary Islands
   - macOS
-  - Productivity
 comments: true
 share: true
 ---
 
-# Focus Note Wallpaper
+![image-center]({{ '/images/blogposts/20260301-teide.jpg' | absolute_url }}){: .align-center}
 
-I've been using Focus Note for a while now, and I love it. It's a simple yet beautiful app that I use to take notes. It needs a companion. A simple and beautiful wallpaper that let's you focus on your notes, so I created a simple one (actually two) with the color palette of the app.
 
-![image-center]({{ '/images/blogposts/2025-07-03-love-hate-note-taking-apps.png' | absolute_url }}){: .align-center}
+# Lots of Eartquakes
+
+Now that we have a lot of earthquakes in Tenerife again, it's time to revive an old SwiftUI project which I used back in 2020 to learn Combine Framework to learn how to use the fetching an API and so other things like publishers and listeners. This time I will use Swift Data (no more CoreData non-sense) and update to the latest version of Apple APIs. At the same time i will learn how to share the core codebase to create not only iOS version but also a macOS version, TVOS and a watchOS version.
+
+One day later... and a couple of sessions with Claude Code Sonnet 4.6 and CursorComposer 1.5 and we can say we have a working project with an database of earthquakes and usefull information to stay informed about the earthquakes in the Canary Islands.
+
+I use public data from the Instituto Geográfico Nacional (https://www.ign.es/web/vlc-ultimo-terremoto/-/terremotos-canarias/get10dias) to get the latest earthquakes in the Canary Islands.
+
+
 Download:
 
-- [Focus Note Wallpaper v1](http://oliverbarreto.com/downloads/Focus-Note-Wallpaper-v1.png)
-- [Focus Note Wallpaper v2](http://oliverbarreto.com/downloads/Focus-Note-Wallpaper-v2.png)
+- [Terremotos Canarias](/terremotoscanarias.md)
