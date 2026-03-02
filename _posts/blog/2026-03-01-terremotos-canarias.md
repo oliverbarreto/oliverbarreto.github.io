@@ -1,6 +1,6 @@
 ---
-title: "The Earth moves in Canarias"
-description: "So many earthquakes in Canariasduring the last weeks. We need to stay informed."
+title: "The Earth is moviing under"
+description: "So many earthquakes in the Canary Islands during the last weeks. We need to stay informed."
 excerpt_separator: "<!--more-->"
 categories:
   - Actualidad
