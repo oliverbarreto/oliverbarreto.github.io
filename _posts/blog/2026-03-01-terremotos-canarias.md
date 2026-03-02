@@ -1,5 +1,5 @@
 ---
-title: "The Earth is moviing under"
+title: "The Earth is moving under"
 description: "So many earthquakes in the Canary Islands during the last weeks. We need to stay informed."
 excerpt_separator: "<!--more-->"
 categories:
